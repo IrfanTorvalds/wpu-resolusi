@@ -6,9 +6,11 @@ RENCANA KONTEN WPU
     ^ Vue
     ^ React
     ^ Angular
+    ^ JQuery
 - Struktur Data Dasar
 - PHP Frameworks
   ^ Laravel
+  ^ Codeignater
 - Interview
 - Vlogs
 - Python
